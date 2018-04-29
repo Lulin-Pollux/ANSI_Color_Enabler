@@ -1,4 +1,6 @@
 # ANSI_Color_Enabler
+윈도우10의 CMD와 PowerShell의 ANSI Color설정을 활성화 합니다.
+
 ## 상세 설명
 
 C언어는 프로그램에서 WinAPI를 사용해 글자색을 표현할 수 있습니다. <br>
