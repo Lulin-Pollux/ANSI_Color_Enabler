@@ -152,7 +152,7 @@
     <ResourceCompile Include="ANSI_color_enable.rc" />
   </ItemGroup>
   <ItemGroup>
-    <Image Include="..\내 폴더\사진\image\shell.ico" />
+    <Image Include="shell.ico" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

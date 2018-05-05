@@ -56,7 +56,7 @@ int main()
 			textcolor(10);
 			printf("완료되었습니다. ");
 			textcolor(11);
-			puts("***컴퓨터를 재부팅 해주세요.***");
+			puts("***만약, 적용이 안된다면 컴퓨터를 재부팅 해주세요.***");
 			textcolor(14);
 			puts("프로그램을 종료합니다.");
 			textcolor(7);
@@ -69,8 +69,9 @@ int main()
 			printf("\n");
 			textcolor(12);
 			puts("레지스트리를 추가하지 않습니다.");
-			textcolor(7);
+			textcolor(14);
 			puts("프로그램을 종료합니다.");
+			textcolor(7);
 			puts("");
 			system("pause");
 			return 0;	// 종료

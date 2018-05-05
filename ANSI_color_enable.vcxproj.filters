@@ -30,7 +30,7 @@
     </ResourceCompile>
   </ItemGroup>
   <ItemGroup>
-    <Image Include="..\내 폴더\사진\image\shell.ico">
+    <Image Include="shell.ico">
       <Filter>리소스 파일</Filter>
     </Image>
   </ItemGroup>
