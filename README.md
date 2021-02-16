@@ -1,4 +1,4 @@
-# ANSI_Color_Enabler
+# ANSI-color-enabler
 윈도우10의 CMD와 PowerShell의 ANSI Color설정을 활성화 합니다.
 
 ## 상세 설명
